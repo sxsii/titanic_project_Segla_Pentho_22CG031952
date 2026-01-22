@@ -2,5 +2,5 @@ Name: Pentho Segla
 Matric Number: 22CG031952
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: 
+Live URL: https://titanic-project-segla-pentho-22cg031952.onrender.com
 GitHub Repository: https://github.com/sxsii/titanic_project_Segla_Pentho_22CG031952
