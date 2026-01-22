@@ -1,6 +1,6 @@
 Name: Pentho Segla
-Matric Number: XXXX
+Matric Number: 22CG031952
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Pickle
-Live URL: https://your-render-app.onrender.com
-GitHub Repository: https://github.com/yourusername/Titanic_Project_PenthoSegla_XXXX
+Live URL: 
+GitHub Repository: https://github.com/sxsii/titanic_project_Segla_Pentho_22CG031952
